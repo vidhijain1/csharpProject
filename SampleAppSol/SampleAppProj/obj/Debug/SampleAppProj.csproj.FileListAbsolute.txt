@@ -1,0 +1,7 @@
+C:\Users\mukes\Documents\Vidhi LTI\Specialization\Day2\SampleAppSol\SampleAppProj\bin\Debug\SampleAppProj.exe.config
+C:\Users\mukes\Documents\Vidhi LTI\Specialization\Day2\SampleAppSol\SampleAppProj\bin\Debug\SampleAppProj.exe
+C:\Users\mukes\Documents\Vidhi LTI\Specialization\Day2\SampleAppSol\SampleAppProj\bin\Debug\SampleAppProj.pdb
+C:\Users\mukes\Documents\Vidhi LTI\Specialization\Day2\SampleAppSol\SampleAppProj\obj\Debug\SampleAppProj.csprojAssemblyReference.cache
+C:\Users\mukes\Documents\Vidhi LTI\Specialization\Day2\SampleAppSol\SampleAppProj\obj\Debug\SampleAppProj.csproj.CoreCompileInputs.cache
+C:\Users\mukes\Documents\Vidhi LTI\Specialization\Day2\SampleAppSol\SampleAppProj\obj\Debug\SampleAppProj.exe
+C:\Users\mukes\Documents\Vidhi LTI\Specialization\Day2\SampleAppSol\SampleAppProj\obj\Debug\SampleAppProj.pdb
